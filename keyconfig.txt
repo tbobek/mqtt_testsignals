@@ -1,0 +1,10 @@
+✔ Root certificate: /home/thomas/.step/certs/root_ca.crt
+✔ Root private key: /home/thomas/.step/secrets/root_ca_key
+✔ Root fingerprint: f7688938b0597899dd3aa3f3219bb07faefa28ca3218fdde3b5448113baf71ae
+✔ Intermediate certificate: /home/thomas/.step/certs/intermediate_ca.crt
+✔ Intermediate private key: /home/thomas/.step/secrets/intermediate_ca_key
+✔ Database folder: /home/thomas/.step/db
+✔ Default configuration: /home/thomas/.step/config/defaults.json
+✔ Certificate Authority configuration: /home/thomas/.step/config/ca.json
+
+
